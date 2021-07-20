@@ -1,4 +1,4 @@
-# PVA Clustering
+# Paralyzed Veterans of America (PVA) Clustering and Marketing Approach
 
 The project aims to analyze the data from The Paralyzed Veterans of America (PVA), a non-profit organization that provides programs and services for US veterans with spinal cord injuries or disease and is also one of the largest direct mail fundraisers in the United States of America.
 
